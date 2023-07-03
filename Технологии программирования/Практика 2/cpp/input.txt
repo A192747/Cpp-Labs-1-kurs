@@ -1,0 +1,15 @@
+(:key1 108ull:key2 (:N -200:D 32:):key3 asfa:)
+(:key1 10ull:key2 ’c’:key3 (:N -2:D 3:):)
+(:key1 99999:key2 (:N 99999:D 99:):key3 fffff:)
+a
+(:key1 1111ull:key2 (:N -200:D 32:):key3 aa:)
+j
+asdfas
+(:key1 108ull:key2 (:N -200:D 32:):key3 a:)
+efase
+(:key1 2222:key2 (:N -200:D 32:):key3 asdfa:)
+bany
+(:key1 10ull:key2 ’c’:key3 (:N -2:D 3:):)
+(:key1 12332:key2 (:N 12365:D -32:):key3 aa:)
+jdf
+(:key1 1919191991:key2 (:N -200:D 32:):key3 asdfa:)
